@@ -16,3 +16,4 @@ Thumbs.db
 # IDE Files #
 #############
 .vscode
+*.xml
