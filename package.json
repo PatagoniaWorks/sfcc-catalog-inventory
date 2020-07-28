@@ -1,6 +1,6 @@
 {
   "name": "sfcc-catalog-inventory",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Create Salesforce Commerce Cloud Inventory XML from Catalog XML",
   "homepage": "https://github.com/redvanworkshop/sfcc-catalog-inventory#readme",
   "main": "./bin/cli.js",
